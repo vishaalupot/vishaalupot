@@ -2,18 +2,18 @@
 ### 
 
 <div id="badges">
-  <a href="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png">
-    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="25" alt="Instagram Badge"/>
-  </a>
   
-  <a href="https://www.youtube.com/channel/UCps0KwVi02Urgtl0u6RawDQ">
-    <img src="https://img.icons8.com/?size=512&id=19318&format=png" width="30" alt="Youtube Badge"/>
-  </a>
-  
-  <a href="">
-    <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="30" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/vishaal_upot/">
+    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="20" alt="Instagram Badge"/>
+  </a>&nbsp;<a href="https://www.youtube.com/channel/UCps0KwVi02Urgtl0u6RawDQ">
+    <img src="https://img.icons8.com/?size=512&id=19318&format=png" width="25" alt="Youtube Badge"/>
+  </a>&nbsp;<a href="https://twitter.com/UpotVishaal?t=nyNpqRESLJe0EUApXMaX_g&s=08">
+    <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="25" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
 
 <!--
 **vishaalupot/vishaalupot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
