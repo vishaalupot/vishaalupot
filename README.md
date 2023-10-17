@@ -10,9 +10,6 @@
   <a href="https://twitter.com/UpotVishaal?t=nyNpqRESLJe0EUApXMaX_g&s=08">
     <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="25" height="25" alt="Twitter Badge" style="margin-right: 75px;">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishaal-s-upot-28744a1b9">
-    <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="25" height="25" alt="LinkedIn Badge" style="margin-right: 15px;">
-  </a>
 </div>
 
 
