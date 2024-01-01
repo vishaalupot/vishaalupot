@@ -1,5 +1,3 @@
-<h2><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" height="30"> <span style="font-size: 25px;"> Helloo there !!</span></h2>
-
 <div id="badges">
   <a href="https://www.instagram.com/vishaal_upot/">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=512" width="20" height="20" alt="Instagram Badge" style="margin-right: 5px;">
