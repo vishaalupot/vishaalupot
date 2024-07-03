@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Vishaal S Upot
+      <br>
     While my roots lie in </b>code</b>, my curiosity knows no bounds and this is the place where I uncover the extraordinary in every corner!!!
   <br>
   <b><i>"When passion meets inspiration, an obsession is born" - ChatGPT</i></b>
