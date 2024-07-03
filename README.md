@@ -87,7 +87,7 @@
   <a href="/">
     <img align="left" alt="Vishaal S Upot | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
+   <a href="">
     <img align="left" alt="Vishaal S Upot| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/vishaalupot">
