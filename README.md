@@ -16,15 +16,15 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Fanatic since childhood.
-- 🔭 I’m currently working as a Web Application developer for Operations.
-- 👯 Myself and my friends are doin freelancing to support other organisations build websites .
+- 🔭 I’m currently working as a Web Application developer of Operations.
+- 👯 My friends and I freelance to help organizations build websites to grow their customer.
 <br>
 
 ---
 
 <details>
 <summary>
-  ✨ Tech stack I know or Currently using:
+  ✨ Tech stack I know or is currently using:
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
@@ -44,7 +44,7 @@
 
 <details>
 <summary>
-  🌱 Looking forward to learn:
+  🌱 Looking forward to learn: (There are more, but I couldn't find their SVG icons)
 </summary>
    <br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
